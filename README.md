@@ -1,6 +1,6 @@
-# LeetCode <img align="right" width="100" height="50" src="https://camo.githubusercontent.com/f44d202bd75162df89f9b94c34fb9a0bfa43c0fc/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323030302f312a357164504c733478395475616276514a7775376975412e706e67">
+# LeetCode <img align="right" width="150" height="70" src="https://camo.githubusercontent.com/f44d202bd75162df89f9b94c34fb9a0bfa43c0fc/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323030302f312a357164504c733478395475616276514a7775376975412e706e67">
 
-## Algorithms
+## Algorithms <img width="55" height="45" src="https://png.icons8.com/color/1600/java-coffee-cup-logo.png">
 
 | #              |     Title          |    Solution      |    Dificulty     |
 |     :---:      |     :---:          |     :---:        |     :---:        |
@@ -10,7 +10,7 @@
 | **5** |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[:bulb:](https://github.com/Ricardo-Esteves/LeetCode/blob/master/Algorithms/5.%20Longest%20Palindromic%20Substring.java)    | Medium |
 | **6** |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|  [:bulb:](https://github.com/Ricardo-Esteves/LeetCode/blob/master/Algorithms/6.%20ZigZag%20Conversion.java)    | Medium |
 
-## Database
+## Database <img width="50" height="25" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/sql-file-2-502460.png">
 
 | #              |     Title          |    Solution      |    Dificulty     |
 |     :---:      |     :---:          |     :---:        |     :---:        |
