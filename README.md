@@ -1,4 +1,6 @@
-# LeetCode <img align="right" width="150" height="70" src="https://camo.githubusercontent.com/f44d202bd75162df89f9b94c34fb9a0bfa43c0fc/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323030302f312a357164504c733478395475616276514a7775376975412e706e67">
+# LeetCode <img align="right" width="150" height="55" src="https://camo.githubusercontent.com/f44d202bd75162df89f9b94c34fb9a0bfa43c0fc/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323030302f312a357164504c733478395475616276514a7775376975412e706e67">
+
+In this repository, I will show some of my extra work and some resolution of problems in the leetcode website.
 
 ## Algorithms <img width="55" height="45" src="https://png.icons8.com/color/1600/java-coffee-cup-logo.png">
 
